@@ -60,13 +60,13 @@ export default function Home() {
             {/* Testimonial 1 */}
             <div className="bg-gray-50 p-8 rounded-lg shadow-md">
               <p className="text-gray-500 text-6xl font-serif leading-none mb-4">“</p>
-              <p className="italic text-lg mb-6">Excellent company to deal with....5 stars all the way. I recently completed a shower reno and I could not be happier with both the end result and NT Construction. Nick the owner was very friendly and professional to deal with and Jack who completed the work was amazing - a perfect job. I couldn't be happier. Additionally their plumbing and electrical contractors (Andre and Marty) were super! Dont look any further if you need work done !</p>
+              <p className="italic text-lg mb-6">Excellent company to deal with....5 stars all the way. I recently completed a shower reno and I could not be happier with both the end result and NT Construction. Nick the owner was very friendly and professional to deal with and Jack who completed the work was amazing - a perfect job. I couldn&apos;t be happier. Additionally their plumbing and electrical contractors (Andre and Marty) were super! Dont look any further if you need work done !</p>
               <p className="font-bold text-gray-700">- Leslie Fancy</p>
             </div>
             {/* Testimonial 2 */}
             <div className="bg-gray-50 p-8 rounded-lg shadow-md">
               <p className="text-gray-500 text-6xl font-serif leading-none mb-4">“</p>
-              <p className="italic text-lg mb-6">NT Construction built a mudroom onto our house in 2021. We couldn't be more happy with our experience working with Nick and his team. They finished the job on time and on budget (even with Covid supply and price challenges). They are very honest, communicative and reliable and genuinely want to do the absolute best job they can.</p>
+              <p className="italic text-lg mb-6">NT Construction built a mudroom onto our house in 2021. We couldn&apos;t be more happy with our experience working with Nick and his team. They finished the job on time and on budget (even with Covid supply and price challenges). They are very honest, communicative and reliable and genuinely want to do the absolute best job they can.</p>
               <p className="font-bold text-gray-700">- Tyler Howell</p>
             </div>
             {/* Testimonial 3 */}
